@@ -1,2 +1,2 @@
-# Dmitrikotowski.github.io
+# Дмитрий Котовский
 Мой первый сайт
